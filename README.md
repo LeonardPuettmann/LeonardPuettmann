@@ -1,6 +1,6 @@
 Feel free to [get in touch](https://www.linkedin.com/in/leonard-p%C3%BCttmann-4648231a9/) :) 
 
-## PyTorch projects 
+### PyTorch projects 
 - [Phi LLM implementation](https://github.com/LeonardPuettmann/pytorch-phi-paper-implementation)
 - [Seq2Seq Translation](https://github.com/LeonardPuettmann/pytorch-seq2seq-translation)
 - [Bird Classification](https://github.com/LeonardPuettmann/pytorch-bird-classification)
@@ -9,15 +9,15 @@ Feel free to [get in touch](https://www.linkedin.com/in/leonard-p%C3%BCttmann-46
 - [BERT from scratch](https://github.com/LeonardPuettmann/bert-from-scratch)
 - [GPT from scratch](https://github.com/LeonardPuettmann/gpt-from-scratch)
 
-## Packages 
-- [LazyNLP](https://github.com/LeonardPuettmann/lazy-nlp)
-
-## KernAI 
+### KernAI 
 - [Bricks - Open-Soruce NLP modules](URL)
 - [AutoML docker](URL)
 - [Talk at M3 Conference (German)](https://www.youtube.com/watch?v=_iknZVFMm6o)
 
-## Azure Projects 
+### Packages 
+- [LazyNLP](https://github.com/LeonardPuettmann/lazy-nlp)
+
+### Azure Projects 
 - [Azure RAG](https://github.com/LeonardPuettmann/azure-rag)
 - [AzureML Webservice Deployment](https://github.com/LeonardPuettmann/azureml-webservice-deployment)
 - [AzureML K8s Deployment](https://github.com/LeonardPuettmann/azureml-kubernetes-deployment)
@@ -26,7 +26,7 @@ Feel free to [get in touch](https://www.linkedin.com/in/leonard-p%C3%BCttmann-46
 - [AzureML Stock Model Pipeline](https://github.com/LeonardPuettmann/azure-stock-model-pipeline)
 - [AzureML XGBoost Model Pipeline](https://github.com/LeonardPuettmann/azureml-xgboost-pipeline)
 
-## Misc
+### Misc
 - [Tasuku Mistral AI Chatbot](https://github.com/LeonardPuettmann/tasuku)
 - [Neural Network in C](https://github.com/LeonardPuettmann/c-neural-network)
 - [Danish Wind Farm prediction](https://github.com/LeonardPuettmann/danish-windfarm-prediction)
