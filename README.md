@@ -18,13 +18,13 @@ Feel free to [get in touch](https://www.linkedin.com/in/leonard-p%C3%BCttmann-46
 - [LazyNLP](https://github.com/LeonardPuettmann/lazy-nlp)
 
 ### Azure Projects 
-- [Azure RAG](https://github.com/LeonardPuettmann/azure-rag)
 - [AzureML Webservice Deployment](https://github.com/LeonardPuettmann/azureml-webservice-deployment)
 - [AzureML K8s Deployment](https://github.com/LeonardPuettmann/azureml-kubernetes-deployment)
 - [Azure Wind Forecasting Serverless](https://github.com/LeonardPuettmann/azure-wind-forecasting-serverless)
 - [Azure Responsible AI](https://github.com/LeonardPuettmann/azure-responsible-ai)
 - [AzureML Stock Model Pipeline](https://github.com/LeonardPuettmann/azure-stock-model-pipeline)
 - [AzureML XGBoost Model Pipeline](https://github.com/LeonardPuettmann/azureml-xgboost-pipeline)
+- [Azure RAG](https://github.com/LeonardPuettmann/azure-rag)
 
 ### Misc
 - [Tasuku Mistral AI Chatbot](https://github.com/LeonardPuettmann/tasuku)
