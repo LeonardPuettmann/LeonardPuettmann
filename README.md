@@ -10,8 +10,8 @@ Feel free to [get in touch](https://www.linkedin.com/in/leonard-p%C3%BCttmann-46
 - [GPT from scratch](https://github.com/LeonardPuettmann/gpt-from-scratch)
 
 ### KernAI 
-- [Bricks - Open-Soruce NLP modules](URL)
-- [AutoML docker](URL)
+- [Bricks - Open-Soruce NLP modules](https://github.com/code-kern-ai/bricks)
+- [AutoML docker](https://github.com/code-kern-ai/automl-docker)
 - [Talk at M3 Conference (German)](https://www.youtube.com/watch?v=_iknZVFMm6o)
 
 ### Packages 
