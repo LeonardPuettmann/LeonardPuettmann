@@ -15,6 +15,7 @@ Feel free to [get in touch](https://www.linkedin.com/in/leonard-p%C3%BCttmann-46
 ## KernAI 
 - [Bricks - Open-Soruce NLP modules](URL)
 - [AutoML docker](URL)
+- [Talk at M3 Conference (German)](https://www.youtube.com/watch?v=_iknZVFMm6o)
 
 ## Azure Projects 
 - [Azure RAG](https://github.com/LeonardPuettmann/azure-rag)
@@ -28,5 +29,6 @@ Feel free to [get in touch](https://www.linkedin.com/in/leonard-p%C3%BCttmann-46
 ## Misc
 - [Tasuku Mistral AI Chatbot](https://github.com/LeonardPuettmann/tasuku)
 - [Neural Network in C](https://github.com/LeonardPuettmann/c-neural-network)
+- [Danish Wind Farm prediction](https://github.com/LeonardPuettmann/danish-windfarm-prediction)
 - [Stockapp](URL)
 - [Text Summarizer](URL)
