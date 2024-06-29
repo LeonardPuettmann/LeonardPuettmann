@@ -27,6 +27,7 @@ Feel free to [get in touch](https://www.linkedin.com/in/leonard-p%C3%BCttmann-46
 - [Azure RAG](https://github.com/LeonardPuettmann/azure-rag)
 
 ### Misc
+- [Mistral Search Engine](https://github.com/LeonardPuettmann/mistral-search-engine)
 - [Tasuku Mistral AI Chatbot](https://github.com/LeonardPuettmann/tasuku)
 - [Neural Network in C](https://github.com/LeonardPuettmann/c-neural-network)
 - [Danish Wind Farm prediction](https://github.com/LeonardPuettmann/danish-windfarm-prediction)
