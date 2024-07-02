@@ -1,6 +1,7 @@
 Feel free to [get in touch](https://www.linkedin.com/in/leonard-p%C3%BCttmann-4648231a9/) :) 
 
 ### PyTorch projects 
+- [MiniMistral](https://github.com/LeonardPuettmann/understanding-mistral)
 - [Phi LLM implementation](https://github.com/LeonardPuettmann/pytorch-phi-paper-implementation)
 - [Seq2Seq Translation](https://github.com/LeonardPuettmann/pytorch-seq2seq-translation)
 - [Bird Classification](https://github.com/LeonardPuettmann/pytorch-bird-classification)
