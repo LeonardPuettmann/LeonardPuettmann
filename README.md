@@ -9,6 +9,7 @@ Feel free to [get in touch](https://www.linkedin.com/in/leonard-p%C3%BCttmann-46
 - [Quantization](https://github.com/LeonardPuettmann/pytorch-quantization)
 - [BERT from scratch](https://github.com/LeonardPuettmann/bert-from-scratch)
 - [GPT from scratch](https://github.com/LeonardPuettmann/gpt-from-scratch)
+- [Llama from scratch](https://github.com/LeonardPuettmann/llama-from-scratch)
 
 ### KernAI 
 - [Bricks | Open-Source NLP modules](https://github.com/code-kern-ai/bricks)
