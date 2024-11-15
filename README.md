@@ -7,9 +7,12 @@ Feel free to [get in touch](https://www.linkedin.com/in/leonard-p%C3%BCttmann-46
 - [Bird Classification](https://github.com/LeonardPuettmann/pytorch-bird-classification)
 - [🔥 PyTorch Tips](https://github.com/LeonardPuettmann/pytorch-tips)
 - [Quantization](https://github.com/LeonardPuettmann/pytorch-quantization)
+
+### LLMs
 - [BERT from scratch](https://github.com/LeonardPuettmann/bert-from-scratch)
 - [GPT from scratch](https://github.com/LeonardPuettmann/gpt-from-scratch)
 - [Llama from scratch](https://github.com/LeonardPuettmann/llama-from-scratch)
+- [LlaMaestro - Llama model for translation](https://github.com/LeonardPuettmann/LlaMaestro)
 
 ### KernAI 
 - [Bricks | Open-Source NLP modules](https://github.com/code-kern-ai/bricks)
