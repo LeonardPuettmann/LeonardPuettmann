@@ -13,7 +13,7 @@ Visit my [HuggingFace page](https://huggingface.co/LeonardPuettmann)!
 - [BERT from scratch](https://github.com/LeonardPuettmann/bert-from-scratch)
 - [GPT from scratch](https://github.com/LeonardPuettmann/gpt-from-scratch)
 - [Llama from scratch](https://github.com/LeonardPuettmann/llama-from-scratch)
-- [LlaMaestro - Llama model for translation](https://github.com/LeonardPuettmann/LlaMaestro)
+- [LlaMaestra - Llama model for translation](https://github.com/LeonardPuettmann/LlaMaestra)
 
 ### KernAI 
 - [Bricks | Open-Source NLP modules](https://github.com/code-kern-ai/bricks)
