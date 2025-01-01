@@ -14,6 +14,7 @@ Visit my [HuggingFace page](https://huggingface.co/LeonardPuettmann)!
 - [GPT from scratch](https://github.com/LeonardPuettmann/gpt-from-scratch)
 - [Llama from scratch](https://github.com/LeonardPuettmann/llama-from-scratch)
 - [LlaMaestra - Llama model for translation](https://github.com/LeonardPuettmann/LlaMaestra)
+- [Quadrifoglio - Seq2seq model for translation](https://github.com/LeonardPuettmann/Quadrifoglio)
 
 ### KernAI 
 - [Bricks | Open-Source NLP modules](https://github.com/code-kern-ai/bricks)
